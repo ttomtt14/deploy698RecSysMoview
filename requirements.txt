@@ -1,5 +1,5 @@
-scikit-surprise
-scikit-learn==1.2.2
-pandas
-numpy
+scikit-learn==1.5.2
+scikit-surprise==1.1.4
+pandas==2.2.2
+numpy==1.26.4
  
